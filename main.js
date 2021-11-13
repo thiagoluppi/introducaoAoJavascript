@@ -2,4 +2,4 @@
 var welcome = "Hello JavaScript - Automação JS"
 document.getElementById("Welcome").append(welcome);
 // console.log é tipo o puts do Ruby:
-console.log(welcome)
+console.log(welcome);
