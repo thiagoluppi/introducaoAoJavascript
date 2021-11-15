@@ -1,0 +1,22 @@
+/*
+DOM ==> Document Object Model:
+
+html => Pagina
+
+h1 = Cabeçalhos / Titulos
+p = Paragrafos
+ul = Agrupadores de listas do elemento ul
+li = os itens de listas do elemento ul
+a = link
+form = formularios
+input do tipo texto = campos de texto
+input do tipo check = checkbox
+input do tipo radio = radiobutton
+textarea = paragrafos
+button = botoes
+span = elementos genericos
+tables = tabelas
+tds = colunas
+divs = divisoes
+labels = textos
+*/
