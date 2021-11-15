@@ -24,7 +24,7 @@ console.log(album.released);
 album.tracks = ["Enter Sandman", "The Unforgiven", "Nothing Else Matters", "The Struggle Within"];
 
 album.showTracks = function () {
-  this.tracks.forEach(function (valor, posicao) {
+  this.tracks.forEach(function (valor) {
     console.log(valor);
   })
 }
